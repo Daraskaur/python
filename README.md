@@ -33,4 +33,10 @@ Link: www.FacialExpressionRecognition.com
 ## **5. Screenshot of the Interface**
 <img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="50%" height="50%">
 
+# Parameter Optimization
+
+- ### **<a href="https://docs.google.com/presentation/d/e/2PACX-1vSOeguXJS_AfKpHdxS1aU91XQ6fN7ubknc80qwXzB1_XghMbnyuQ6Ftecd9vGKrow/pub?start=false&loop=false&delayms=60000"> Click Here</a> for ppt.**
+- ### Go the last slide for the assignment
+
+
 
