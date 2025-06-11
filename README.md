@@ -1,4 +1,4 @@
-# python
+# THAPAR SUMMER SCHOOL
 # 14 Dataset Sources for Machine Learning and Deep Learning
 
 14 free dataset sources for Machine Learning and Deep Learning applications
