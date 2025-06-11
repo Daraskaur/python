@@ -1,6 +1,6 @@
 # THAPAR SUMMER SCHOOL
 # 14 Dataset Sources for Machine Learning and Deep Learning
-
+BY-DARAS KAUR
 14 free dataset sources for Machine Learning and Deep Learning applications
 
 1. Google Dataset Search – A search engine for datasets:   https://datasetsearch.research.google.com/
